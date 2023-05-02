@@ -1,7 +1,7 @@
 ### 简体中文 | [English](./README_en.md)
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-[![release](https://img.shields.io/github/v/release/kylelin1998/CountStatistics)](https://github.com/kylelin1998/CountStatistics/releases/latest)
+[![release](https://img.shields.io/github/v/release/kylelin1998/See-Think-Say-App)](https://github.com/kylelin1998/See-Think-Say-App/releases/latest)
 
 ## 简介
 见思千言是基于ChatGPT的跨平台软件
