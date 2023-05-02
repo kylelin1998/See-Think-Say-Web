@@ -1,0 +1,23 @@
+
+spring:
+  application:
+    name: See-Think-Say-Web
+  mvc:
+    favicon:
+      enabled: false
+  thymeleaf:
+    cache: false
+
+server:
+  port: 9049
+  servlet:
+    context-path: /
+
+logging:
+  config: classpath:logback-spring.xml
+
+app:
+  proxy:
+    on-proxy: true
+    proxy-host: 127.0.0.1
+    proxy-port: 7890
